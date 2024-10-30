@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Subtract the blocks to help Ava and Oliver unlock the hidden compartment in the wall.<br><img width='55%' src='./images/11.jpg'>",
+        "options": [
+            "25",
+            "21",
+            "22",
+            "23"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Subtract the blocks to guide them to the next chamber in the adventure.<br><img width='55%' src='./images/12.jpg'>",
+        "options": [
+            "35",
+            "32",
+            "33",
+            "37"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Subtract to assist Ava and Oliver in activating the mechanism that opens the path forward.<br><img width='55%' src='./images/13.jpg'>",
+        "options": [
+            "39",
+            "37",
+            "38",
+            "40"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Help Oliver complete the energy conduit that powers the gateway by subtracting the blocks.<br><img width='55%' src='./images/14.jpg'>",
+        "options": [
+            "23",
+            "24",
+            "22",
+            "21"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Subtract to unlock the code that will provide Ava with the clues needed to proceed.<br><img width='55%' src='./images/15.jpg'>",
+        "options": [
+            "33",
+            "36",
+            "32",
+            "35"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Subtract the blocks to guide Oliver in deactivating the security system blocking their way.<br><img width='55%' src='./images/16.jpg'>",
+        "options": [
+            "47",
+            "49",
+            "45",
+            "43"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Subtract the glowing blocks that they need to navigate Numeralia.<br><img width='55%' src='./images/17.jpg'>",
+        "options": [
+            "28",
+            "24",
+            "26",
+            "22"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Subtract to reveal the hidden door that they must enter to continue their quest.<br><img width='55%' src='./images/18.jpg'>",
+        "options": [
+            "36",
+            "34",
+            "32",
+            "38"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Subtract to activate the portal that will transport them to the next realm.<br><img width='55%' src='./images/19.jpg'>",
+        "options": [
+            "58",
+            "56",
+            "52",
+            "54"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Subtract the blocks to help them reveal the secret passage that leads deeper into the adventure.<br><img width='55%' src='./images/20.jpg'>",
+        "options": [
+            "37",
+            "33",
+            "35",
+            "34"
+        ],
+        "correct": 2
+    }
+]
